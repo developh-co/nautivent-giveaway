@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('/font/Manrope.ttf');
+}
+
+@font-face {
+  font-family: 'Venera';
+  src: url('/font/Venera-900.otf');
+}
