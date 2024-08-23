@@ -57,7 +57,7 @@ The application will be available at http://localhost:3000
 
 ## Verifying the Giveaway
 
-The logic for selecting a winner is located in the generateWinner function in the app/components/ directory. You can modify the comments.txt file to simulate different scenarios and test the fairness of the winner selection.
+The logic for selecting a winner is located in the generateWinner function in the app/components/ directory. You can modify the grouped_comments.json file to simulate different scenarios and test the fairness of the winner selection.
 
 ## ⚖️ License
 
