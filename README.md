@@ -37,7 +37,7 @@ Please note that the verification of whether participants have followed the requ
 Clone the repository:
 
 ```bash
-git clone https://github.com/[Owner]/nautivent-giveaway.git
+git clone https://github.com/develophpt/nautivent-giveaway.git
 cd nautivent-giveaway
 ```
 
